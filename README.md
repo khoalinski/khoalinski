@@ -78,10 +78,7 @@ Hi, I'm Nguyen Dang Khoa, a motivated Software Engineering honors student at RMI
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <!-- To generate the snake, you will need to set up a GitHub Action. This is the placeholder for the output image. -->
-  <img src="https://raw.githubusercontent.com/khoalinski/khoalinski/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+  ![Snake animation](https://github.com/khoalinski/khoalinski/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <div align="center">
