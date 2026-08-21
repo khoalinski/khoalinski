@@ -19,17 +19,25 @@ Beyond coursework, I am an active Technology Department Member at the RMIT FinTe
 
 ### 💻 Technical Arsenal
 
+<div align="center">
+
 **Frontend & UI Tooling:**  
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Core Languages:**  
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & Architecture:**  
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Tools:**  
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
 
 ---
 
@@ -43,20 +51,44 @@ Beyond coursework, I am an active Technology Department Member at the RMIT FinTe
 
 ### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast)
+<a href="https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast"
+  />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast"
+  />
+</a>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=khoalinski&repo=rmitvietnamfintechclub%2FFinRecruit&show_owner=true&description_lines_count=1&theme=highcontrast)](https://github.com/rmitvietnamfintechclub/FinRecruit)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=khoalinski&repo=khoalinski%2FFTCSEED-FinalProject-UnitCon&description_lines_count=1&theme=highcontrast)](https://github.com/khoalinski/FTCSEED-FinalProject-UnitCon)
 
 ---
 
-### 📫 Let's Connect
+<div align="center">
+  
+  ### 📫 Let's Connect
+  
+  <a href="https://linkedin.com/khoa-nguyen-rmit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dangkhoa30905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  </a>
 
-*   **LinkedIn:** [linkedin.com/in/khoa-nguyen-rmit](https://linkedin.com/in/khoa-nguyen-rmit)
-*   **Email:** dangkhoa30905@gmail.com
-
-> *"An analytical problem solver and collaborative team player with a proven track record of award-winning project delivery."*
+  <br>
+  
+  > *"An analytical problem solver and collaborative team player with a proven track record of award-winning project delivery."*
+</div>
 
 <!--
 **khoalinski/khoalinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
