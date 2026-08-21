@@ -13,12 +13,12 @@
 
 Hi, I'm Nguyen Dang Khoa, a motivated Software Engineering honors student at RMIT Vietnam with a passion for building scalable, data-driven FinTech products and highly responsive interfaces. My interests span artificial intelligence, API integrations, and innovative front-end solutions that elevate user experiences. I thrive on tackling challenging projects and collaborating with talented teams worldwide.
 
-*   🎓 **Education:** Software Engineering (Honours) @ RMIT Vietnam (GPA: 3.8/4.0)
+*   🎓 **Education:** Software Engineering (Honours) @ RMIT Vietnam (GPA: 3.6/4.0)
 *   🤖 **Focus Areas:** Full-Stack Development, Front-End Engineering, UI/UX, AI Integration
 *   🏆 **Goals:** To build impactful, accessible web platforms and become a recognized contributor in modern software architecture
 *   💡 **Philosophy:** Proactive learning, analytical thinking, and delivering award-winning results
-*   🌐 **Collaboration:** Active Technology Department Member @ RMIT FinTech Club & Neo Culture Tech
-*   🧩 **Fun Fact:** I love solving algorithmic puzzles and optimizing real-time system architectures for peak efficiency
+*   🌐 **Collaboration:** Active Technology Department Member @ RMIT FinTech Club
+*   🧩 **Fun Fact:** I love to play sports specifically Football and Badminton
 
 ---
 
