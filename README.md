@@ -1,7 +1,7 @@
 # Hello there, my name is Nguyen Dang Khoa! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Building%20Interactive%20UIs&fontSize=40&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Front-End%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&fontColor=000000&height=200&section=header&text=Building%20Interactive%20UIs&fontSize=40&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Front-End%20Engineer&descAlignY=55&descAlign=62&descColor=000000" alt="Header Banner" />
 </div>
 
 I'm a Software Engineering honors student at RMIT University Vietnam (GPA: 3.6) with a deep focus on **Full-Stack and Front-End Web Development**. I am passionate about building accessible, data-driven FinTech products and highly responsive interfaces using React, Next.js, JavaScript, and TypeScript. 
@@ -43,10 +43,11 @@ Beyond coursework, I am an active Technology Department Member at the RMIT FinTe
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoalinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khoa's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoalinski&theme=tokyonight&hide_border=true&background=0D1117" alt="Khoa's GitHub Streak" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=khoalinski&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=khoalinski&langs_count=4&theme=highcontrast)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=khoalinski&repo=rmitvietnamfintechclub%2FFinRecruit&show_owner=true&description_lines_count=1&theme=highcontrast)](https://github.com/rmitvietnamfintechclub/FinRecruit)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=khoalinski&repo=khoalinski%2FFTCSEED-FinalProject-UnitCon&description_lines_count=1&theme=highcontrast)](https://github.com/khoalinski/FTCSEED-FinalProject-UnitCon)
 
 ---
 
