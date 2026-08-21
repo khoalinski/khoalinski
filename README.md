@@ -78,7 +78,7 @@ Hi, I'm Nguyen Dang Khoa, a motivated Software Engineering honors student at RMI
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://githubusercontent.comkhoalinski/khoalinski/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/khoalinski/khoalinski/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <div align="center">
