@@ -1,19 +1,19 @@
 # Hi there, I'm Dang Khoa! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Building%20Scalable%20Systems&fontSize=40&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Backend%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Building%20Scalable%20Systems&fontSize=40&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
 </div>
 
-I'm a Software Engineering student at RMIT University Vietnam with a deep focus on **Backend and Full-Stack Development**[cite: 6]. I enjoy architecting N-Tier systems, engineering real-time data bridges using WebSockets, and optimizing API delivery pipelines[cite: 6]. 
+I'm a Software Engineering student at RMIT University Vietnam with a deep focus on **Full-Stack Development**. I enjoy architecting N-Tier systems, engineering real-time data bridges using WebSockets, and optimizing API delivery pipelines. 
 
-When I'm not studying algorithms or debugging server-side logic, I'm actively engaged in the tech community through the RMIT FinTech Club and Neo Culture Tech[cite: 6].
+When I'm not studying algorithms or debugging server-side logic, I'm actively engaged in the tech community through the RMIT FinTech Club and Neo Culture Tech.
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
-*   **Relievo:** Architecting a full-stack MERN food redistribution platform[cite: 6]. Implementing a Modular Monolith backend with proximity-based geo-sorting and real-time WebSocket integrations for live tracking[cite: 6].
-*   **FinRecruit:** Engineering a high-performance recruitment pipeline dashboard[cite: 6]. Establishing end-to-end type safety (TypeScript) and Role-Based Access Control (RBAC) via Next.js and custom React hooks[cite: 6].
+*   **Relievo:** Architecting a full-stack MERN food redistribution platform. Implementing a Modular Monolith backend with proximity-based geo-sorting and real-time WebSocket integrations for live tracking.
+*   **FinRecruit:** Engineering a high-performance recruitment pipeline dashboard. Establishing end-to-end type safety (TypeScript) and Role-Based Access Control (RBAC) via Next.js and custom React hooks.
 *   **Smart City Systems:** Experimenting with C++ console-based simulations for traffic light management and exploring Python data structure benchmarking.
 
 ---
@@ -21,13 +21,13 @@ When I'm not studying algorithms or debugging server-side logic, I'm actively en
 ### 💻 Technical Arsenal
 
 **Core Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)[cite: 6]
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Architecture:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)[cite: 6]
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Frontend & Tooling:**  
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)[cite: 6]
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -43,8 +43,7 @@ When I'm not studying algorithms or debugging server-side logic, I'm actively en
 ### 📫 Let's Connect
 
 *   **LinkedIn:** [linkedin.com/in/khoa-nguyen-rmit](https://linkedin.com/in/khoa-nguyen-rmit)
-*   **Email:** dangkhoa30905@gmail.com[cite: 6]
-*   **Portfolio:** [Your Portfolio Link Here]
+*   **Email:** dangkhoa30905@gmail.com
 
 > *"Driven by technical challenges, proactive in solving performance bottlenecks, and passionate about scalable systems."*
 
